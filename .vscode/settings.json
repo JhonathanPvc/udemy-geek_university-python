@@ -1,5 +1,4 @@
 {
   "python.analysis.autoImportCompletions": true,
   "editor.defaultFormatter" : "ms-python.autopep8",
-  "editor.defaultFoldingRangeProvider": "ms-python.autopep8"
 }
